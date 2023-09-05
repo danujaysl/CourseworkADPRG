@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T19:32:49.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="e3DQhwu_b0W_z7Y2IJWB" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-05T19:34:41.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="9uB2DHywhpVwyHaj9Uoc" version="21.6.8" type="github" pages="3">
   <diagram id="pB1bgljTpvZICOx4d8Ra" name="ER Diagram">
     <mxGraphModel dx="926" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -480,7 +480,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X1OuE-cyMr-TSbeOfkcZ" name="UML Use case diagram">
-    <mxGraphModel dx="1687" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="555" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -490,40 +490,40 @@
         <mxCell id="0Dq7RxH4n1VzOuwprpJ_-2" value="Consultant" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="125" y="560" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-5" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-5" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="130" width="360" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-6" value="Register job seeker" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-6" value="Register job seeker" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="335" y="150" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-11" value="generate report" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-11" value="generate report" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="335" y="770" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-12" value="Register consultant" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-12" value="Register consultant" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="335" y="680" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0Dq7RxH4n1VzOuwprpJ_-13" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="710" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-14" value="Manage Appointments" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-14" value="Manage Appointments" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="335" y="490" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-15" value="change password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-15" value="change password" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="335" y="210" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-16" value="Make appointment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-16" value="Make appointment" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="335" y="340" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-17" value="choose available agent" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-17" value="choose available agent" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="250" y="410" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-18" value="Choose date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-18" value="Choose date" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="425" y="410" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-19" value="Approve&lt;br&gt;Appointments" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-19" value="Approve&lt;br&gt;Appointments" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="260" y="610" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-20" value="Reject&lt;br&gt;Appointments" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-20" value="Reject&lt;br&gt;Appointments" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="410" y="610" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0Dq7RxH4n1VzOuwprpJ_-24" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Dq7RxH4n1VzOuwprpJ_-1" target="0Dq7RxH4n1VzOuwprpJ_-6">
@@ -586,7 +586,7 @@
             <mxPoint x="705" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-38" value="Update profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-38" value="Update profile" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="335" y="270" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0Dq7RxH4n1VzOuwprpJ_-39" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Dq7RxH4n1VzOuwprpJ_-1" target="0Dq7RxH4n1VzOuwprpJ_-38">
