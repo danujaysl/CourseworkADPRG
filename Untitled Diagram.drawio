@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T19:34:41.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="9uB2DHywhpVwyHaj9Uoc" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-05T19:35:56.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="wkLrzpMZZgoFz-1x0f39" version="21.6.8" type="github" pages="3">
   <diagram id="pB1bgljTpvZICOx4d8Ra" name="ER Diagram">
     <mxGraphModel dx="926" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -595,8 +595,8 @@
             <mxPoint x="345" y="245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-40" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Use case diagram - Job Link&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="60" width="310" height="40" as="geometry" />
+        <mxCell id="0Dq7RxH4n1VzOuwprpJ_-40" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Use case diagram - Job Link&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="60" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
